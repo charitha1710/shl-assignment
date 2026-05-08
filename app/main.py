@@ -4,7 +4,9 @@ from .recommender import is_query_vague, recommend_from_catalog
 from .schemas import ChatRequest, ChatResponse
 
 app = FastAPI(title="SHL AI Intern Assignment")
-
+@app.get("/")
+async def root():
+    return {"message": "SHL Assessment Recommender API is running"}
 
 @app.get("/health")
 async def health():
