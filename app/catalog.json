@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Java Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-developer-assessment/",
+    "test_type": "technical",
+    "tags": ["java", "programming"]
+  },
+  {
+    "name": "Python Developer Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-developer-assessment/",
+    "test_type": "technical",
+    "tags": ["python", "programming"]
+  },
+  {
+    "name": "SQL Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-skills-assessment/",
+    "test_type": "technical",
+    "tags": ["sql", "database"]
+  },
+  {
+    "name": "Personality Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/personality-assessment/",
+    "test_type": "personality",
+    "tags": ["personality"]
+  },
+  {
+    "name": "Numerical Reasoning Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-assessment/",
+    "test_type": "numerical",
+    "tags": ["numerical", "math"]
+  },
+  {
+    "name": "Verbal Reasoning Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning-assessment/",
+    "test_type": "verbal",
+    "tags": ["verbal", "language"]
+  },
+  {
+    "name": "Customer Service Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-assessment/",
+    "test_type": "customer service",
+    "tags": ["customer service", "support"]
+  },
+  {
+    "name": "Sales Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-assessment/",
+    "test_type": "sales",
+    "tags": ["sales", "business"]
+  }
+]
